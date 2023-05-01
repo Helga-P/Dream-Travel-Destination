@@ -1,3 +1,17 @@
-.page, .one {
-    background-image: ;
+.one {
+    background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/079/878/original/norway.png?1682956373);
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
+.text {
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 140px;
+    color: #00004D;
+}
+.main-title {
+    text-align: center;
 }
